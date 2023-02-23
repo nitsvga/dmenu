@@ -1,0 +1,6 @@
+# C files
+*.o
+
+# Binaries
+stest
+dmenu
